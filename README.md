@@ -1,2 +1,2 @@
-# NamanRepository
-This is my repository
+# OOPS Calculator
+This is OOPS Calculator
